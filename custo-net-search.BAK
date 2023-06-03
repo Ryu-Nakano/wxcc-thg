@@ -18,7 +18,7 @@
                   <input type="text" id="search" name="search" value="" placeholder="" required="required" tabindex="1" autofocus="autofocus" />
                 </label> 
             </div>
-            <div class="sendInfo">              
+            <div class="search">              
                 <a href="#" class="search-button" onclick="sendRequest(' ')">検索</a> 
             </div>
             <div class="table">

@@ -125,7 +125,7 @@ input:required, textarea:required {
 }
 
 
-.name_f, .name, .date1, .time1, .date2, .time2, .email, .telephone{
+.name_f, .name, .date1, .time1, .date2, .time2, .email, .telephone, .search{
    width: 45%;
    display:inline-block;
 }
@@ -147,6 +147,9 @@ a.btn--green:hover {
   background: #ffffff;
 }
 
+.btn-search {
+
+}
 
 .sendInfo {
   color: #fff;
@@ -157,3 +160,37 @@ a.btn--green:hover {
 
 }
 
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 10px;
+}
+
+th {
+  background-color: #ccc;
+  font-weight: bold;
+}
+
+td {
+  text-align: center;
+}
+
+
+.search-button {
+  background-color: #009cd0;
+  color: white;
+  font-size: 16px;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.search-button:hover {
+  background-color: #007ab7;
+  color: white;
+}

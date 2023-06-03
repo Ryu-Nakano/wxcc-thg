@@ -42,13 +42,13 @@
             <div class="address">
                 <label for="address">
                   <span class="required">ガス住所</span> 
-                  <input type="text" id="address" name="name_p" value="Sydney" placeholder="" required="required" tabindex="5" autofocus="autofocus" />
+                  <input type="text" id="address" name="name_p" value="〒460-0003 愛知県名古屋市中区錦２丁目４−３ 錦パークビル" placeholder="" required="required" tabindex="5" autofocus="autofocus" />
                 </label> 
             </div>
             <div class="address">
                 <label for="address">
                   <span class="required">請求先住所</span> 
-                  <input type="text" id="address" name="name_p" value="Sydney" placeholder="" required="required" tabindex="6" autofocus="autofocus" />
+                  <input type="text" id="address" name="name_p" value="〒460-0003 愛知県名古屋市中区錦２丁目４−３ 錦パークビル" placeholder="" required="required" tabindex="6" autofocus="autofocus" />
                 </label> 
             </div>
             <div class="sendInfo">              

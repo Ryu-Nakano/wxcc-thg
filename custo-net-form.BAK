@@ -18,13 +18,13 @@
             <div class="name_f">
                 <label for="relation">
                   <span class="required">氏名（姓）</span> 
-                  <input type="text" id="lastname" name="relation" value="中野" placeholder="" required="required" tabindex="1" autofocus="autofocus" />
+                  <input type="text" id="lastname" name="relation" value="シスコ" placeholder="" required="required" tabindex="1" autofocus="autofocus" />
                 </label> 
             </div>
             <div class="name">
                 <label for="name_f">
                   <span class="required">氏名（名）</span> 
-                  <input type="text" id="firstname" name="name_f" value="龍" placeholder="" required="required" tabindex="2" autofocus="autofocus" />
+                  <input type="text" id="firstname" name="name_f" value="コラビー" placeholder="" required="required" tabindex="2" autofocus="autofocus" />
                 </label> 
             </div>
             <div class="email">
@@ -52,7 +52,7 @@
                 </label> 
             </div>
             <div class="sendInfo">              
-                <a href="#" class="btn btn--green btn--radius" onclick="sendRequest(' ')">送信</a> 
+                <a href="#" class="btn btn--orange btn--radius" onclick="sendRequest(' ')">契約情報更新</a> 
             </div>
              </form>
       

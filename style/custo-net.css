@@ -161,6 +161,19 @@ a.btn--green:hover {
   background: #ffffff;
 }
 
+.btn--orange,
+a.btn--orange {
+  width: 140px;
+  color: #fff;
+  background-color: #df8100;
+}
+
+.btn--orange:hover,
+a.btn--orange:hover {
+  color: #000;
+  background: #ffffff;
+}
+
 .btn-search {
 
 }
@@ -170,7 +183,7 @@ a.btn--green:hover {
   width: 100%;
   background-color: #df8100;
   text-align: center;
-  font-size: 35px;
+  font-size: 20px;
 
 }
 
@@ -178,20 +191,17 @@ a.btn--green:hover {
 table {
   border-collapse: collapse;
   width: 100%;
+  background-color: #0498c3;
 }
 
 th, td {
-  border: 1px solid black;
-  padding: 10px;
+  border: 2px solid #000000;
+  padding: 8px;
+  color: #FFFFFF;
 }
 
 th {
-  background-color: #ccc;
-  font-weight: bold;
-}
-
-td {
-  text-align: center;
+  background-color: #000000;
 }
 
 

@@ -3,7 +3,7 @@ html{
    background:url(../img/background.jpg?auto=compress&cs=tinysrgb&h=750&w=1260) no-repeat;
    background-size: cover;
    height:100%;
-   background-color: #FFFFFF;
+   background-color:#FFFFFF;
 }
 * {
    box-sizing:border-box;
@@ -16,7 +16,7 @@ html{
    text-rendering:optimizeLegibility;
 }
 body {
-   color: #ffffff;
+   color: #333333;
    font-family: Arial, san-serif;
 }
 
@@ -30,7 +30,7 @@ h4{
 }
 
 #search-form {
-   background-color: #009cd0;
+   background-color: #F5F5F5;
    padding: 10px 20px 30px 20px;
    max-width:100%;
    float: left;
@@ -191,22 +191,22 @@ a.btn--orange:hover {
 table {
   border-collapse: collapse;
   width: 100%;
-  background-color: #0498c3;
+  background-color: #DDDDDD;
 }
 
 th, td {
   border: 2px solid #FFFFFF;
   padding: 8px;
-  color: #FFFFFF;
+  color: #333333;
 }
 
 th {
-  background-color: #000000;
+  background-color: #666666;
 }
 
 
 .search-button {
-  background-color: #007cd0;
+  background-color: #007BFF;
   color: white;
   font-size: 16px;
   padding: 10px 20px;
@@ -215,6 +215,6 @@ th {
 }
 
 .search-button:hover {
-  background-color: #007ab7;
+  background-color: #0056B3;
   color: white;
 }
